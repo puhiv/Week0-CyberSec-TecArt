@@ -1,4 +1,4 @@
-# projek
+# Week0-CyberSec-TecArt
 Nim: 260530911099
 
 Nama: I Kadek Risky Andika Saputra
