@@ -27,4 +27,4 @@ https://learn.microsoft.com/en-us/windows/wsl/basic-commands
 https://man7.org/linux/man-pages/man1/tr.1.html
 https://man7.org/linux/man-pages/man1/rev.1.html
 https://man7.org/linux/man-pages/man1/base64.1.html
-https://docs.binary.ninja/
+https://docs.binary.ninja/ 
